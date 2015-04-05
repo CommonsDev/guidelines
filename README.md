@@ -1,8 +1,8 @@
-# Innovation.social - Guidelines
+# Imagination.social - Guidelines
 
-## Le projet Innovation.social
+## Le projet Imagination.social
 
-Le projet Innovation.social a pour but de créer une plateforme de projet d'innovation sociale basée sur une architecture ouverte.
+Le projet Imagination.social a pour but de créer une plateforme de projet d'innovation sociale basée sur une architecture ouverte.
 
 ## L'architecture du projet
 
@@ -11,7 +11,7 @@ Le projet est divisé en deux grandes parties :
 - Un dataserver qui centralise l'ensemble des données accessible via une API
 - Des modules d'interface utilisateurs pour afficher les données du dataserver
 
-## Utiliser Innovation.social
+## Utiliser Imagination.social
 
 ### L'API
 
@@ -19,7 +19,7 @@ Le projet est divisé en deux grandes parties :
 
 ### Les modules
 
-Pour intégrer Innovation.social sur son propre site, on utilise des modules indépendants. Chaque module représente une fonctionnalité de la plateforme. Les modules suivants sont en cours de développement :
+Pour intégrer Imagiation.social sur son propre site, on utilise des modules indépendants. Chaque module représente une fonctionnalité de la plateforme. Les modules suivants sont en cours de développement :
 
 - Liste des projets
 
