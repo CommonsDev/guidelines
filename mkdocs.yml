@@ -1,5 +1,8 @@
-site_name: MkLorum
+site_name: Project Plateform
 pages:
-- [index.md, Home]
-- [about.md, About]
+- ['index.md', 'Home']
+- ['about.md', About]
+- ['getting-started.md', 'Getting started']
+- ['user-guide/dataserver/intro.md', 'Dataserver', 'Intro']
+- ['user-guide/front-end/design-principles.md', 'Front End' , 'Design Principles']
 theme: readthedocs

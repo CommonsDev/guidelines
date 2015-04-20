@@ -1,17 +1,15 @@
-# Innovation.social Guidelines
+# Project Plateform Guidelines
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+The purpose of "Project Plateform" is to offer an open-source tool to publish, edit and share project information. 
 
-## Commands
+## Plateform Architecture
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+The plateform consists in two main part : 
 
-## Project layout
+- A dataserver that gives access to the data through a RESTFull API.
+- A front-end designed to be used as a list of modules embeddable in any website, CMS, app...
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## The Front-end 
+
+The front-end is built upon a series of modules that can be used individually.
+Here is a quick list of 
