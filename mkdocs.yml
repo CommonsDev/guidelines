@@ -2,7 +2,12 @@ site_name: Project Plateform
 pages:
 - ['index.md', 'Home']
 - ['about.md', About]
-- ['getting-started.md', 'Getting started']
-- ['user-guide/dataserver/intro.md', 'Dataserver', 'Intro']
-- ['user-guide/front-end/design-principles.md', 'Front End' , 'Design Principles']
+- ['design/getting-started/design-principles.md', 'Getting started', 'Design Principles']
+- ['design/style/devices-display.md', 'Style', 'Devices and displays']
+- ['design/style/themes.md', 'Style', 'Themes']
+- ['design/style/grid.md', 'Style', 'Grid']
+- ['design/style/typography.md', 'Style', 'Typography']
+- ['design/style/color.md', 'Style', 'Color']
+- ['design/style/iconography.md', 'Style', 'Iconography']
+- ['design/style/branding.md', 'Style', 'Branding']
 theme: readthedocs
